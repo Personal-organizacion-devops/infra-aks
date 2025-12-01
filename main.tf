@@ -1,6 +1,6 @@
 # Resource Group
 resource "azurerm_resource_group" "rg_01" {
-  name     = "rg-cicd-terraform-app-araujobmw"
+  name     = "rg-cicd-terraform-app-araujobmw" # Reemplazar apellido
   location = "East US"
 }
 
